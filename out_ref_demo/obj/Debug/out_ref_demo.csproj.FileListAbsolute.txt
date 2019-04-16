@@ -1,0 +1,7 @@
+C:\Users\liuzhao\source\repos\out_ref_demo\out_ref_demo\bin\Debug\out_ref_demo.exe.config
+C:\Users\liuzhao\source\repos\out_ref_demo\out_ref_demo\bin\Debug\out_ref_demo.exe
+C:\Users\liuzhao\source\repos\out_ref_demo\out_ref_demo\bin\Debug\out_ref_demo.pdb
+C:\Users\liuzhao\source\repos\out_ref_demo\out_ref_demo\obj\Debug\out_ref_demo.csprojAssemblyReference.cache
+C:\Users\liuzhao\source\repos\out_ref_demo\out_ref_demo\obj\Debug\out_ref_demo.csproj.CoreCompileInputs.cache
+C:\Users\liuzhao\source\repos\out_ref_demo\out_ref_demo\obj\Debug\out_ref_demo.exe
+C:\Users\liuzhao\source\repos\out_ref_demo\out_ref_demo\obj\Debug\out_ref_demo.pdb
